@@ -1,0 +1,52 @@
+body{
+    color: whi;
+background: rgb(165,102,139);
+background: linear-gradient(90deg, rgba(165,102,139,1) 10%, rgba(105,48,109,1) 46%, rgba(14,16,61,1) 100%);
+}
+/*#ball {
+    width: 50px;
+    height: 50px;
+    margin: 20px auto;
+    position: relative;
+    border-radius: 50%;
+    background: linear-gradient(
+      35deg,
+      #ccffff,
+      #ffcccc
+    );
+    animation-name: bounce;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+  }
+
+  @keyframes bounce{
+    0% {
+      top: 0px;
+    }
+    20% {
+      top: 249px;
+      width: 130px;
+      height: 70px;
+    }
+    50% {
+      top: 0px;
+    }
+  }*/
+h5{
+    text-align: center;
+    color: white;
+    margin-top: 150px;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 150px;
+}
+
+#toggle {
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+  }
